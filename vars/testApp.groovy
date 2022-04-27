@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
 
 def call() {
-    echo "Testing node website"
+    echo "Testing node-website"
 }
